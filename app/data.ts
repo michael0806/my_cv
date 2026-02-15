@@ -58,6 +58,23 @@ type Technology = {
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
+    company: 'ECLY Ltd, Auckland',
+    title: 'IT Support',
+    start: 'Jun 2025',
+    end: 'Present',
+    link: 'https://www.ecly.co.nz/',
+    id: 'work0',
+    tools: ['Microsoft 365', 'Entra ID', 'Intune', 'SQL', 'API', 'Azure', 'PowerShell', 'ERP', 'VMware'],
+    details: [
+      'A leading importer, exporter and distributor of Asian food products in New Zealand.',
+      'Provide comprehensive technical support to end-users, ensuring the smooth operation of IT systems.',
+      'Carry out both hardware and software troubleshooting, system administration and application support, via helpdesk tickets, phone and in-person interactions. Liaise with IT vendors for hardware and software services.',
+      'Participate in various IT projects including customising the ERP system\'s features, manage key accounts, system security, OS deployment, network configuration and data backups in on-premises and cloud-based environments.',
+      'Evaluate, install, configure and deploy new applications, software and updates. Maintain accurate documentation.',
+      'Business application support activities include working with internal and external resources to support ERP systems (Microsoft Dynamics 365 Business Central) and e-commerce applications, supporting sales-related business processes, master data administration and Android and iOS mobile frontends.'
+    ],
+  },
+  {
     company: 'Danone Nutricia New Zealand Ltd (NZN)',
     title: 'Intern Data and Analytics',
     start: 'Nov 2024',
