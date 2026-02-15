@@ -165,9 +165,11 @@ export default function Personal() {
         <h3 className="mb-5 text-lg font-medium">PROFESSIONAL PROFILE</h3>
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            ➢ Reliable and diligent professional offering solid skills in complex analysis and mapping business goals, objectives and needs. Adept in applying machine learning algorithms to derive meaningful insights and definitive results, explaining reports and delivering presentations in an easy-to-understand way. Strong track record of deploying Business Intelligence Solutions, applying industry best practices, and using the latest technology in data and analytics. Participated in academic projects for the Ministry of Education and University of Auckland as part of Master's studies.
+            ➢ <strong>Data Analytics:</strong> Solid skills in complex analysis and mapping business goals, objectives and needs. Adept in applying machine learning algorithms to derive meaningful insights and definitive results, explaining reports and presenting research findings and decision tree model results in a clear and understandable way. Strong track record of deploying Business Intelligence Solutions, applying industry best practices, and using the latest technology in data and analytics.
             <br /><br />
-            ➢ Through advanced-level studies and internships, gained a deep understanding of the importance of getting to know datasets very well to build quality and accurate products. Demonstrates high professionalism in data processing, actively seeks to resolve problems and is committed to ongoing learning. Able to work in complex environments with enterprise applications. Proactive, willing to go the extra mile, a clear communicator and a collaborative team player.
+            ➢ <strong>Data Science:</strong> Demonstrates skills in data processing, able to work in complex environments with enterprise applications. Possesses a combination of technical and non-technical skills with proficiency in programming languages like Python and R, statistical modelling, machine learning, and data visualisation. Understands data science research methods. Practical skills include strong communication, problem-solving and critical thinking.
+            <br /><br />
+            ➢ <strong>Data Engineering:</strong> Through comprehensive studies has gained skills and knowledge in database management, big data technologies, data warehousing, troubleshooting and cloud computing platforms. Advance knowledge base includes SQL Server Administration, Manipulating Complex Datasets, Data Transformation & Cleaning, Integrating Data Sources and Big Data Technologies.
           </p>
           
           <div className="mt-6">
