@@ -72,7 +72,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
       'Participate in various IT projects including customising the ERP system\'s features, manage key accounts, system security, OS deployment, network configuration and data backups in on-premises and cloud-based environments.',
       'Evaluate, install, configure and deploy new applications, software and updates. Maintain accurate documentation.',
       'Business application support activities include working with internal and external resources to support ERP systems (Microsoft Dynamics 365 Business Central) and e-commerce applications, supporting sales-related business processes, master data administration and Android and iOS mobile frontends.',
-      'Build dashboards and reports in Power BI; configure and resolve user authorisation issues; support third-party companies with Business Insights and troubleshoot semantic model connectivity issues.'
+      'Build dashboards and reports in Power BI; configure and resolve user authorisation issues; work within third-party company (Business Insights) to troubleshoot semantic model connectivity issues.'
     ],
   },
   {
@@ -257,6 +257,12 @@ export const TECHNOLOGIES: Technology[] = [
 ]
 
 export const CERTIFICATIONS: Certification[] = [
+  {
+    name: 'AWS Certified Cloud Practitioner (CLF-C02)',
+    issuer: 'AWS',
+    date: '2025',
+    id: 'cert0',
+  },
   {
     name: 'Databricks Fundamentals',
     issuer: 'Databricks',
